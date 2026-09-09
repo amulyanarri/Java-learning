@@ -1,0 +1,12 @@
+public class trial{
+    public static void main(String[] args)
+    {
+        int a=5,b=7,c=2;
+        int sum=0;
+        float avg=0;
+        sum=a+b+c;
+        avg=(float)sum/3;
+        System.out.println("the sum of 3 numbers is:"+sum);
+        System.out.println("the average of 3 numbers is:"+avg);
+    }
+}
